@@ -53,5 +53,7 @@ This project was created as part of my web development portfolio to demonstrate 
 ## Author
 
 Kelvin Bradshaw
+
 LinkedIn: https://www.linkedin.com/in/kelvinbradshaw
+
 GitHub: https://github.com/Nazarite-Digital-Solutions
